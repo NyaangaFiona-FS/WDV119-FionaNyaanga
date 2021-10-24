@@ -34,7 +34,7 @@ Each week, I will summarize my milestone activity and progress by including a **
 
 **Week 3**: I'm having a lot of fun this week working on my prototype, and switching things out. I accidentally deleted my original prototype but managed to create and even better one, and decide on a theme. 
 
-**Week 4**:   
+**Week 4**: This week has been rough for me, coding the prototype exactly the way I wanted it has been challenging. And as soon as I think I've got the hang of GitHub, I realize I actually do not.
 
 
 <br>
